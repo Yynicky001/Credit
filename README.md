@@ -1,8 +1,8 @@
-# Multi-Modal Credit Rating System
+# Paddle Paddle Multi-Modal Credit Rating System
 
 ## Overview
 This project is an innovative credit rating system that leverages multi-modal features such as gait analysis, facial emotions, and voice emotions to achieve dynamic, emotion-driven credit evaluation. By integrating deep learning technologies like I3D and Transformer, the system enhances traditional credit rating methods and addresses key challenges in risk management and fairness.
-![项目结构](./image/基于Transformer的多模态融合信贷评级系统- Credit产品模块设计图.jpg)
+
 
 ## Key Features
 - **Multi-Modal Feature Fusion**: Combines gait, facial emotion, and voice emotion features for comprehensive credit evaluation.
