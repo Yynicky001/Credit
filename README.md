@@ -2,7 +2,7 @@
 
 ## Overview
 This project is an innovative credit rating system that leverages multi-modal features such as gait analysis, facial emotions, and voice emotions to achieve dynamic, emotion-driven credit evaluation. By integrating deep learning technologies like I3D and Transformer, the system enhances traditional credit rating methods and addresses key challenges in risk management and fairness.
-
+![示例图片](./images/example.png)
 
 ## Key Features
 - **Multi-Modal Feature Fusion**: Combines gait, facial emotion, and voice emotion features for comprehensive credit evaluation.
