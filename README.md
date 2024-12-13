@@ -10,7 +10,7 @@ This project is an innovative credit rating system that leverages multi-modal fe
 - **Real-Time Credit Scoring**: Dynamically updates credit scores based on historical and real-time emotional data.
 - **Enhanced FICO Scoring**: Optimizes historical credit analysis by integrating multi-dimensional data.
 - **Service-Oriented Architecture**: Built on the PaddlePaddle Pipeline Serving platform for efficient, scalable deployment.
-
+![Image text](./image/舟沐繁星-基于飞桨的多模态融合信贷评级系统产品模块设计图多模态信贷评级系统模型整体设计架构.jpg)
 ## Benefits
 - **Fair Credit Support**: Provides equitable credit evaluation for SMEs and younger demographics.
 - **Improved Risk Management**: Reduces default rates by over 30% through precise, dynamic risk assessment.
